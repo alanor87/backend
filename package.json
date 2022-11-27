@@ -1,0 +1,12 @@
+{
+  "name": "breadcrumbs_backend",
+  "version": "1.0.0",
+  "description": "backend for the test project",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alanor87",
+  "license": "ISC"
+}
